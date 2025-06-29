@@ -42,21 +42,19 @@ The dataset is fully artificial and contains the following tables:
 
 ## 🔍 Analytical Focus Areas
 
-### 👶 Junior Data Analyst Tasks:
+### Tasks 1:
 - Basic usage metrics (DAU, MAU)
 - Funnel drop-off and conversion
 - Top features and event frequency
 - Acquisition channel breakdown
 - Retention (Week 1) and session frequency
 
-### 🧠 Senior Data Analyst Tasks:
+### Tasks 2:
 - Retention curve by cohorts
 - Feature correlation with retention
 - Early-stage LTV vs CAC insights
 - NPS-based sentiment segmentation
 - Hypotheses for A/B testing
-
-> 📎 Document: `Product_Analytics_Questions_by_Analyst_Level.docx` outlines detailed questions by role level.
 
 ---
 
@@ -107,6 +105,6 @@ This mock dataset and structure were designed to reflect typical expectations fo
 
 ## 👤 Author
 
-Created by **Hassan Ambi** – Data Analyst & Product Insight Enthusiast  
+Created by **Hassan Ambi** 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/hassanambi29)  
 📧 hassanambi29@gmail.com
