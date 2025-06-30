@@ -1,0 +1,201 @@
+user_id,signup_date,plan,acquisition_channel,country
+U1000,2024-02-21,Free,Organic,UK
+U1001,2024-01-15,Free,Paid Social,UK
+U1002,2024-03-12,Free,Paid Social,US
+U1003,2024-03-01,Free,Organic,US
+U1004,2024-01-21,Free,Organic,Germany
+U1005,2024-03-23,Free,Paid Social,Germany
+U1006,2024-03-27,Free,Paid Social,US
+U1007,2024-03-15,Free,Paid Social,US
+U1008,2024-03-15,Free,Paid Social,Nigeria
+U1009,2024-03-28,Pro,Referral,US
+U1010,2024-01-24,Free,Paid Social,US
+U1011,2024-01-03,Free,Paid Social,UK
+U1012,2024-01-22,Free,Referral,Sweden
+U1013,2024-02-22,Free,Organic,US
+U1014,2024-01-02,Free,Organic,India
+U1015,2024-03-28,Free,Organic,India
+U1016,2024-01-30,Enterprise,Paid Social,US
+U1017,2024-02-07,Free,Paid Social,India
+U1018,2024-01-02,Free,Paid Social,UK
+U1019,2024-03-04,Free,Organic,Germany
+U1020,2024-02-29,Free,Organic,Germany
+U1021,2024-01-21,Free,Organic,Germany
+U1022,2024-02-02,Enterprise,Organic,US
+U1023,2024-03-16,Free,Paid Social,Brazil
+U1024,2024-02-27,Enterprise,Organic,UK
+U1025,2024-01-22,Enterprise,Organic,US
+U1026,2024-03-29,Free,Referral,US
+U1027,2024-02-18,Free,Organic,Germany
+U1028,2024-02-28,Free,Paid Social,India
+U1029,2024-02-11,Free,Paid Social,US
+U1030,2024-02-29,Free,Organic,Germany
+U1031,2024-03-20,Free,Paid Social,US
+U1032,2024-01-15,Free,Referral,Germany
+U1033,2024-03-02,Free,Referral,US
+U1034,2024-03-02,Pro,Organic,India
+U1035,2024-02-16,Free,Referral,UK
+U1036,2024-03-02,Pro,Organic,Nigeria
+U1037,2024-02-20,Free,Organic,US
+U1038,2024-02-24,Free,Organic,UK
+U1039,2024-03-04,Free,Email,US
+U1040,2024-01-03,Free,Organic,Nigeria
+U1041,2024-02-20,Pro,Organic,Brazil
+U1042,2024-01-07,Pro,Paid Social,US
+U1043,2024-01-21,Pro,Organic,India
+U1044,2024-03-13,Free,Organic,Brazil
+U1045,2024-02-08,Free,Organic,Germany
+U1046,2024-01-18,Pro,Organic,Germany
+U1047,2024-01-04,Pro,Organic,US
+U1048,2024-03-29,Enterprise,Organic,US
+U1049,2024-02-29,Free,Paid Social,Brazil
+U1050,2024-01-14,Free,Organic,Nigeria
+U1051,2024-01-09,Pro,Organic,Germany
+U1052,2024-03-30,Free,Referral,UK
+U1053,2024-02-22,Enterprise,Organic,UK
+U1054,2024-01-02,Pro,Paid Social,India
+U1055,2024-03-24,Free,Organic,Brazil
+U1056,2024-02-29,Pro,Organic,Brazil
+U1057,2024-03-11,Pro,Organic,India
+U1058,2024-02-13,Free,Organic,Germany
+U1059,2024-01-08,Enterprise,Organic,US
+U1060,2024-02-16,Free,Organic,US
+U1061,2024-02-04,Pro,Organic,Brazil
+U1062,2024-03-18,Free,Organic,Germany
+U1063,2024-03-21,Pro,Organic,US
+U1064,2024-02-05,Free,Organic,US
+U1065,2024-02-19,Free,Organic,India
+U1066,2024-01-04,Enterprise,Paid Social,US
+U1067,2024-01-02,Free,Paid Social,US
+U1068,2024-01-06,Free,Organic,Germany
+U1069,2024-02-23,Enterprise,Paid Social,India
+U1070,2024-01-04,Enterprise,Paid Social,India
+U1071,2024-02-23,Free,Organic,US
+U1072,2024-03-03,Free,Referral,India
+U1073,2024-01-18,Free,Referral,US
+U1074,2024-03-30,Free,Organic,UK
+U1075,2024-02-13,Free,Organic,India
+U1076,2024-02-03,Free,Referral,Germany
+U1077,2024-03-14,Pro,Paid Social,Brazil
+U1078,2024-03-02,Pro,Organic,India
+U1079,2024-01-14,Pro,Organic,Germany
+U1080,2024-02-17,Free,Organic,US
+U1081,2024-01-15,Free,Organic,UK
+U1082,2024-03-12,Free,Paid Social,US
+U1083,2024-03-18,Free,Organic,US
+U1084,2024-03-27,Free,Organic,Sweden
+U1085,2024-03-02,Pro,Paid Social,UK
+U1086,2024-02-09,Free,Organic,Brazil
+U1087,2024-03-25,Free,Organic,Germany
+U1088,2024-03-20,Free,Paid Social,India
+U1089,2024-03-22,Pro,Referral,Germany
+U1090,2024-02-22,Free,Paid Social,Germany
+U1091,2024-01-24,Free,Paid Social,UK
+U1092,2024-01-26,Free,Organic,US
+U1093,2024-03-29,Pro,Organic,India
+U1094,2024-02-29,Free,Paid Social,US
+U1095,2024-02-10,Pro,Organic,US
+U1096,2024-01-29,Pro,Organic,Germany
+U1097,2024-01-15,Free,Organic,US
+U1098,2024-02-14,Free,Organic,Nigeria
+U1099,2024-03-05,Enterprise,Organic,Sweden
+U1100,2024-03-29,Free,Organic,Nigeria
+U1101,2024-03-11,Free,Organic,UK
+U1102,2024-01-09,Pro,Organic,US
+U1103,2024-03-28,Enterprise,Referral,Nigeria
+U1104,2024-01-01,Enterprise,Paid Social,UK
+U1105,2024-01-08,Pro,Paid Social,Sweden
+U1106,2024-03-28,Free,Paid Social,Sweden
+U1107,2024-03-03,Free,Organic,Brazil
+U1108,2024-01-11,Pro,Organic,US
+U1109,2024-03-21,Free,Paid Social,UK
+U1110,2024-01-08,Free,Paid Social,Brazil
+U1111,2024-02-04,Enterprise,Paid Social,UK
+U1112,2024-02-04,Free,Organic,US
+U1113,2024-02-02,Free,Organic,Germany
+U1114,2024-01-05,Free,Organic,Nigeria
+U1115,2024-02-10,Free,Organic,India
+U1116,2024-01-28,Free,Paid Social,Germany
+U1117,2024-01-07,Free,Paid Social,US
+U1118,2024-03-13,Free,Organic,Germany
+U1119,2024-03-12,Free,Email,Sweden
+U1120,2024-01-12,Pro,Paid Social,US
+U1121,2024-02-03,Free,Organic,Germany
+U1122,2024-02-02,Enterprise,Organic,Brazil
+U1123,2024-02-17,Free,Organic,India
+U1124,2024-01-23,Free,Organic,India
+U1125,2024-03-02,Pro,Organic,India
+U1126,2024-03-28,Free,Organic,UK
+U1127,2024-02-06,Enterprise,Organic,US
+U1128,2024-02-13,Free,Organic,Brazil
+U1129,2024-03-26,Enterprise,Referral,Brazil
+U1130,2024-02-04,Free,Organic,Brazil
+U1131,2024-03-05,Pro,Paid Social,Nigeria
+U1132,2024-02-16,Free,Organic,Germany
+U1133,2024-03-18,Enterprise,Email,Germany
+U1134,2024-01-03,Free,Organic,India
+U1135,2024-01-01,Free,Organic,Germany
+U1136,2024-01-05,Enterprise,Email,India
+U1137,2024-03-30,Free,Referral,India
+U1138,2024-01-14,Free,Referral,Brazil
+U1139,2024-01-27,Free,Organic,UK
+U1140,2024-01-09,Free,Organic,UK
+U1141,2024-03-19,Free,Paid Social,US
+U1142,2024-01-15,Free,Referral,Germany
+U1143,2024-03-30,Enterprise,Paid Social,US
+U1144,2024-02-11,Free,Paid Social,UK
+U1145,2024-03-17,Free,Organic,Germany
+U1146,2024-02-20,Enterprise,Paid Social,US
+U1147,2024-03-03,Pro,Organic,Germany
+U1148,2024-02-21,Free,Organic,US
+U1149,2024-01-04,Free,Organic,US
+U1150,2024-01-23,Free,Paid Social,Brazil
+U1151,2024-01-15,Free,Organic,UK
+U1152,2024-02-12,Free,Organic,US
+U1153,2024-01-29,Free,Paid Social,Germany
+U1154,2024-02-05,Free,Organic,India
+U1155,2024-01-13,Free,Paid Social,US
+U1156,2024-02-01,Enterprise,Organic,Germany
+U1157,2024-03-11,Enterprise,Organic,US
+U1158,2024-02-28,Free,Paid Social,US
+U1159,2024-03-26,Free,Organic,Germany
+U1160,2024-01-28,Free,Organic,Germany
+U1161,2024-03-06,Pro,Organic,Germany
+U1162,2024-02-11,Free,Organic,India
+U1163,2024-02-14,Free,Email,Sweden
+U1164,2024-03-02,Enterprise,Organic,Germany
+U1165,2024-02-26,Pro,Referral,UK
+U1166,2024-01-06,Enterprise,Organic,India
+U1167,2024-01-28,Pro,Paid Social,US
+U1168,2024-01-28,Free,Paid Social,UK
+U1169,2024-02-13,Free,Paid Social,US
+U1170,2024-03-24,Enterprise,Organic,US
+U1171,2024-01-30,Pro,Organic,Sweden
+U1172,2024-03-02,Free,Organic,Brazil
+U1173,2024-03-15,Free,Referral,India
+U1174,2024-03-29,Free,Referral,UK
+U1175,2024-03-02,Pro,Email,US
+U1176,2024-01-01,Enterprise,Organic,US
+U1177,2024-01-27,Free,Paid Social,US
+U1178,2024-03-02,Free,Referral,Germany
+U1179,2024-03-17,Free,Organic,India
+U1180,2024-01-03,Enterprise,Organic,India
+U1181,2024-03-10,Pro,Paid Social,US
+U1182,2024-03-12,Pro,Paid Social,Sweden
+U1183,2024-01-27,Free,Referral,India
+U1184,2024-01-09,Free,Organic,Germany
+U1185,2024-03-02,Free,Paid Social,Germany
+U1186,2024-02-06,Free,Organic,UK
+U1187,2024-02-20,Pro,Organic,US
+U1188,2024-02-13,Pro,Organic,UK
+U1189,2024-01-24,Enterprise,Referral,India
+U1190,2024-03-19,Enterprise,Paid Social,US
+U1191,2024-02-28,Free,Paid Social,US
+U1192,2024-02-01,Pro,Organic,US
+U1193,2024-03-28,Enterprise,Referral,US
+U1194,2024-02-21,Pro,Organic,Brazil
+U1195,2024-03-02,Free,Referral,India
+U1196,2024-02-27,Free,Organic,UK
+U1197,2024-02-21,Free,Organic,US
+U1198,2024-01-12,Enterprise,Organic,UK
+U1199,2024-02-08,Free,Organic,UK

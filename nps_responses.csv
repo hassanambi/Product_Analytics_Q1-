@@ -1,0 +1,101 @@
+response_id,user_id,score,comment,response_date
+R3000,U1029,0,The UI is confusing.,2024-01-17
+R3001,U1044,0,Needs more integrations.,2024-03-13
+R3002,U1079,7,Needs more integrations.,2024-02-21
+R3003,U1038,8,Best tool for remote teams.,2024-03-22
+R3004,U1044,1,Needs more integrations.,2024-01-12
+R3005,U1077,8,Best tool for remote teams.,2024-03-23
+R3006,U1080,4,Too slow when uploading files.,2024-02-17
+R3007,U1139,7,The UI is confusing.,2024-01-22
+R3008,U1092,6,The UI is confusing.,2024-02-18
+R3009,U1031,6,Needs more integrations.,2024-02-21
+R3010,U1183,3,Needs more integrations.,2024-03-19
+R3011,U1023,1,Too slow when uploading files.,2024-01-01
+R3012,U1115,4,Best tool for remote teams.,2024-03-06
+R3013,U1012,10,Needs more advanced features,2024-03-04
+R3014,U1147,10,Best tool for remote teams.,2024-01-08
+R3015,U1078,10,Too slow when uploading files.,2024-03-26
+R3016,U1055,2,The UI is confusing.,2024-01-25
+R3017,U1052,8,The UI is confusing.,2024-03-06
+R3018,U1067,5,Love the collaboration features!,2024-03-13
+R3019,U1181,0,Too slow when uploading files.,2024-03-13
+R3020,U1033,2,Too slow when uploading files.,2024-03-17
+R3021,U1027,3,Love the collaboration features!,2024-03-10
+R3022,U1049,8,Best tool for remote teams.,2024-03-19
+R3023,U1129,10,Love the collaboration features!,2024-02-20
+R3024,U1110,5,Too slow when uploading files.,2024-02-22
+R3025,U1093,3,Best tool for remote teams.,2024-01-15
+R3026,U1153,0,The UI is confusing.,2024-02-19
+R3027,U1178,7,Love the collaboration features!,2024-03-11
+R3028,U1046,10,Best tool for remote teams.,2024-03-15
+R3029,U1025,1,Best tool for remote teams.,2024-02-07
+R3030,U1083,10,Best tool for remote teams.,2024-02-09
+R3031,U1105,9,Needs more advanced features,2024-03-06
+R3032,U1091,10,Best tool for remote teams.,2024-02-08
+R3033,U1119,10,Perfect for our remote team,2024-03-14
+R3034,U1074,5,Too slow when uploading files.,2024-01-17
+R3035,U1121,7,Love the collaboration features!,2024-01-07
+R3036,U1188,5,Love the collaboration features!,2024-02-08
+R3037,U1150,4,Love the collaboration features!,2024-03-08
+R3038,U1164,4,Best tool for remote teams.,2024-02-04
+R3039,U1040,9,Mobile app needs improvement,2024-02-20
+R3040,U1051,9,Best tool for remote teams.,2024-02-16
+R3041,U1081,10,Too slow when uploading files.,2024-02-05
+R3042,U1176,7,Needs more integrations.,2024-03-04
+R3043,U1154,6,Love the collaboration features!,2024-03-29
+R3044,U1133,7,Best tool for remote teams.,2024-01-13
+R3045,U1073,7,Best tool for remote teams.,2024-01-18
+R3046,U1065,6,Love the collaboration features!,2024-01-21
+R3047,U1023,1,The UI is confusing.,2024-03-05
+R3048,U1165,10,The UI is confusing.,2024-01-08
+R3049,U1027,8,Too slow when uploading files.,2024-02-17
+R3050,U1155,6,Love the collaboration features!,2024-03-25
+R3051,U1116,10,Love the collaboration features!,2024-02-12
+R3052,U1113,5,Needs more integrations.,2024-02-22
+R3053,U1193,8,The UI is confusing.,2024-03-25
+R3054,U1060,0,The UI is confusing.,2024-01-27
+R3055,U1173,10,Love the collaboration features!,2024-01-19
+R3056,U1068,1,Too slow when uploading files.,2024-01-23
+R3057,U1113,0,Love the collaboration features!,2024-02-19
+R3058,U1074,9,Too slow when uploading files.,2024-02-20
+R3059,U1170,2,The UI is confusing.,2024-02-12
+R3060,U1058,10,Needs more integrations.,2024-02-20
+R3061,U1129,4,Best tool for remote teams.,2024-03-09
+R3062,U1014,0,The UI is confusing.,2024-02-10
+R3063,U1104,3,Too slow when uploading files.,2024-03-12
+R3064,U1164,7,Love the collaboration features!,2024-01-11
+R3065,U1198,5,The UI is confusing.,2024-03-20
+R3066,U1147,0,Needs more integrations.,2024-03-28
+R3067,U1097,0,Too slow when uploading files.,2024-03-25
+R3068,U1034,2,Love the collaboration features!,2024-02-21
+R3069,U1161,9,Best tool for remote teams.,2024-01-23
+R3070,U1030,7,Too slow when uploading files.,2024-02-18
+R3071,U1126,10,Love the collaboration features!,2024-02-07
+R3072,U1018,10,Best tool for remote teams.,2024-02-16
+R3073,U1195,7,Love the collaboration features!,2024-03-12
+R3074,U1023,2,Best tool for remote teams.,2024-01-07
+R3075,U1083,6,Best tool for remote teams.,2024-03-06
+R3076,U1166,2,Best tool for remote teams.,2024-03-17
+R3077,U1091,3,Love the collaboration features!,2024-03-02
+R3078,U1181,8,Best tool for remote teams.,2024-03-27
+R3079,U1166,3,Too slow when uploading files.,2024-01-29
+R3080,U1144,2,Needs more integrations.,2024-02-07
+R3081,U1146,4,Needs more integrations.,2024-03-24
+R3082,U1117,6,Best tool for remote teams.,2024-02-02
+R3083,U1175,4,Needs more integrations.,2024-01-29
+R3084,U1162,3,Needs more integrations.,2024-03-19
+R3085,U1159,7,Best tool for remote teams.,2024-01-23
+R3086,U1174,3,Best tool for remote teams.,2024-01-03
+R3087,U1046,1,Too slow when uploading files.,2024-02-14
+R3088,U1191,9,The UI is confusing.,2024-01-08
+R3089,U1173,5,Love the collaboration features!,2024-03-26
+R3090,U1102,1,Best tool for remote teams.,2024-01-29
+R3091,U1120,2,Best tool for remote teams.,2024-01-02
+R3092,U1162,0,Needs more integrations.,2024-02-19
+R3093,U1093,4,Too slow when uploading files.,2024-03-05
+R3094,U1144,8,Needs more integrations.,2024-01-20
+R3095,U1041,1,Best tool for remote teams.,2024-02-21
+R3096,U1110,6,Best tool for remote teams.,2024-03-25
+R3097,U1028,4,Needs more integrations.,2024-02-06
+R3098,U1197,1,Best tool for remote teams.,2024-03-12
+R3099,U1123,7,The UI is confusing.,2024-01-27
